@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/YuDB.dir/src/BST.cpp.o CMakeFiles/YuDB.dir/src/KVDB.cpp.o CMakeFiles/YuDB.dir/src/main.cpp.o CMakeFiles/YuDB.dir/src/Buffer.cpp.o -o YuDB  libmasstree.a 

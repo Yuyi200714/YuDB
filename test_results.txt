@@ -1,0 +1,136 @@
+线程数: 24, 操作数: 20000000
+limit_count: 10M
+线程数：24
+Time to op 19M operations: 1.72423s
+吞吐率：11.0194MOPS
+
+
+
+线程数: 24, 操作数: 20000000
+limit_count: 10M
+线程数：24
+Time to op 19M operations: 1.71335s
+吞吐率：11.0894MOPS
+
+
+
+线程数: 24, 操作数: 30000000
+limit_count: 10M
+线程数：24
+Time to op 30M operations: 2.60219s
+吞吐率：11.5288MOPS
+
+
+
+线程数: 24, 操作数: 20000000
+limit_count: 10M
+线程数：24
+Time to op 19M operations: 1.65878s
+吞吐率：11.4542MOPS
+
+
+
+线程数: 24, 操作数: 20000000
+limit_count: 10M
+线程数：24
+Time to op 19M operations: 1.68716s
+吞吐率：11.2615MOPS
+
+
+
+线程数: 24, 操作数: 30000000
+limit_count: 10M
+线程数：24
+Time to op 30M operations: 2.52434s
+吞吐率：11.8843MOPS
+
+
+
+线程数: 24, 操作数: 40000000
+limit_count: 10M
+线程数：24
+Time to op 39M operations: 3.15757s
+吞吐率：12.3513MOPS
+
+
+
+线程数: 24, 操作数: 50000000
+limit_count: 10M
+线程数：24
+Time to op 49M operations: 3.73784s
+吞吐率：13.1092MOPS
+
+
+
+线程数: 24, 操作数: 60000000
+limit_count: 10M
+线程数：24
+Time to op 60M operations: 4.39218s
+吞吐率：13.6606MOPS
+
+
+
+线程数: 24, 操作数: 70000000
+limit_count: 10M
+线程数：24
+Time to op 69M operations: 5.18526s
+吞吐率：13.3069MOPS
+
+
+
+线程数: 24, 操作数: 80000000
+limit_count: 10M
+线程数：24
+Time to op 79M operations: 5.82164s
+吞吐率：13.5701MOPS
+
+
+
+线程数: 24, 操作数: 90000000
+limit_count: 10M
+线程数：24
+Time to op 90M operations: 6.65204s
+吞吐率：13.5297MOPS
+
+
+
+线程数: 24, 操作数: 100000000
+limit_count: 10M
+线程数：24
+Time to op 99M operations: 6.81406s
+吞吐率：14.5288MOPS
+
+
+
+线程数: 4, 操作数: 2000000
+limit_count: 10M
+线程数：4
+Time to op 2M operations: 0.843401s
+吞吐率：2.37135MOPS
+
+
+
+线程数: 4, 操作数: 3000000
+limit_count: 10M
+线程数：4
+Time to op 3M operations: 1.35549s
+吞吐率：2.21322MOPS
+
+
+
+线程数: 4, 操作数: 4000000
+limit_count: 10M
+线程数：4
+Time to op 4M operations: 1.55769s
+吞吐率：2.56791MOPS
+
+
+
+线程数: 4, 操作数: 5000000
+limit_count: 10M
+线程数：4
+Time to op 5M operations: 2.069s
+吞吐率：2.41663MOPS
+
+
+

@@ -1,0 +1,4 @@
+/home/zyb/YuDB/build/CMakeFiles/masstree.dir
+/home/zyb/YuDB/build/CMakeFiles/YuDB.dir
+/home/zyb/YuDB/build/CMakeFiles/edit_cache.dir
+/home/zyb/YuDB/build/CMakeFiles/rebuild_cache.dir
